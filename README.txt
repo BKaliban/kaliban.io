@@ -14,6 +14,4 @@
 
 - 🐇Adobe: (Audition, Premiere Pro CC, Media Encoder)
 
-- 🏃‍♂️💨 Also : TeamViwer, Anydesk, lightshot, Telegram, WhatsApp, Jira, SaleForce, Notion, Bamboo, Lattice, MacKeeper, PCKeeper, iDoctor, Coral Draw. CRM sytems also.
-
 - 😎OS Knowledge: Microsoft Windows, Apple macOS & Linux.
