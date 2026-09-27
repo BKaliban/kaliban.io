@@ -1,21 +1,9 @@
 # Security Policy
 
-## Supported Versions
+This repository is a static personal website. Only the latest version on the `main` branch is supported.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Reporting a vulnerability
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Please report security issues privately via a [GitHub security advisory](https://github.com/BKaliban/kaliban.io/security/advisories/new) or a direct message on [Telegram](https://t.me/k4l1ban). Do not open a public issue.
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+You can expect an acknowledgement within a few days.
