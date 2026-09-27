@@ -1,0 +1,10 @@
+version: 2
+updates:
+  # Keep the pinned GitHub Actions SHAs current, so security fixes land
+  # without giving up the safety of pinning to an immutable commit.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "ci"
